@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/hasla">
+        <file>hasla.txt</file>
+    </qresource>
+</RCC>
